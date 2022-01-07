@@ -7,4 +7,4 @@ I am Tenzin Delek Ganchenstsang. I am from Boston, Massachusetts and currently s
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Mobile application development using **Swift**.
-- Solving Data structure and algorithm questions in **Java and Python**.
+- Solving Data structure and algorithm questions in **Python**.
