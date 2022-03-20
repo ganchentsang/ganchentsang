@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [2048](https://github.com/ganchentsang/2048)
 
-- 🌱 I’m currently learning **Javascript, HTML, and CSS**
+- 🌱 I’m currently learning **Python and SQL**
 
 - 💬 Ask me about **anything math related!**
 
